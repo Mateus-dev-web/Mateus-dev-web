@@ -1,5 +1,4 @@
 
-
 ### Olá! eu sou o Mateus Araújo 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ara%C3%BAjo-988060267?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6%2B9ZJam7T82dZdwmp24Pfw%3D%3D)
